@@ -20,7 +20,6 @@
   - Игра
   - Движок форума
   - Агрегатор контента
-  - Template container library
+  - Container library
   - Мессенджер
-  - Парсер с GUI
   - Помощь с джарвисом
